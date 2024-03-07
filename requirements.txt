@@ -20,3 +20,4 @@ xatlas
 roma
 plyfile
 PyMCubes
+nerfacc
