@@ -19,3 +19,4 @@ kiui >= 0.2.3
 xatlas
 roma
 plyfile
+PyMCubes
