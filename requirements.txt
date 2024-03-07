@@ -1,13 +1,7 @@
-torch
-numpy
 tyro
-diffusers
 dearpygui
 einops
 accelerate
-gradio
-imageio
-imageio-ffmpeg
 lpips
 matplotlib
 packaging
@@ -18,7 +12,6 @@ rich
 safetensors
 scikit-image
 scikit-learn
-scipy
 tqdm
 transformers
 trimesh
